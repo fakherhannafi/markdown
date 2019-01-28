@@ -1,0 +1,1 @@
+export const sampleText = '# Title \n## Sub-Title \n### Paragraph\n 1. First, get these ingredients: \n * carrots \n * celery \n * lentils \n 2. Boil some water \n 3. Dump everything in the pot \n ![example](https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 "An exemplary image")'
